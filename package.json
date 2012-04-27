@@ -1,0 +1,22 @@
+{
+  "name": "js-geo",
+  "description": "Geography for Node.js",
+  "version": "0.0.1",
+  "keywords": [ "geography", "geo", "gis", "geos", "client" ],
+  "author": "Mick Thompson <mick@mick.im>",
+  "contributors": [
+    { "name": "Mick Thompson", "web": "http://mick.im" }
+  ],
+  "licenses": [ "MIT" ],
+  "repositories": {
+    "type": "git",
+    "url": "http://github.com/dthompson/js-geo.git"
+  },
+  "bugs": { "web": "http://github.com/dthompson/js-geo/issues" },
+  "directories": {},
+  "os": [ "linux", "darwin" ],
+  "dependencies": { "pg": ">0.0.1"
+  },
+  "engines": { "node":  ">0.6.10" },
+  "main": "./lib"
+}
