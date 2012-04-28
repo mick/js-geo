@@ -13,8 +13,8 @@
     "url": "http://github.com/dthompson/js-geo.git"
   },
   "os": [ "linux", "darwin" ],
-   "dependencies": { "pg": ">0.0.1"
-  },
+   "dependencies": { "pg": ">0.0.1",
+   "couch": ">=0.0.1"},
   "engines": { "node":  ">0.6.10" },
   "main": "./lib"
 }
